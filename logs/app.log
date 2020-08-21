@@ -1,0 +1,5 @@
+{"message":"::1 - - [21/Aug/2020:17:33:51 +0000] \"POST /user/register HTTP/1.1\" 200 72 \"-\" \"PostmanRuntime/7.26.3\"\n","level":"info"}
+{"message":"login authentication successful","level":"info"}
+{"message":"::1 - - [21/Aug/2020:17:34:58 +0000] \"POST /user/login HTTP/1.1\" 200 350 \"-\" \"PostmanRuntime/7.26.3\"\n","level":"info"}
+{"message":"Invalid user credentials","level":"info"}
+{"message":"::1 - - [21/Aug/2020:17:41:07 +0000] \"POST /user/register HTTP/1.1\" 200 52 \"-\" \"PostmanRuntime/7.26.3\"\n","level":"info"}
